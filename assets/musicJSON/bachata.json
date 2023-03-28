@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "playlist":"bachata",
+        "artista":"Romeo Santos",
+        "nombre" : "Propuesta Indecente",
+        "url":"assets/music/Bachata/Romeo Santos- Propuesta Indecente.mp3",
+        "duracion":"3:52 s"
+    },
+
+    {
+        "id":2,
+        "playlist":"bachata",
+        "artista":"Romeo Santos",
+        "nombre" : "Eres mia",
+        "url":"assets/music/Bachata/Romeo Santos - Eres Mía.mp3",
+        "duracion":"4:10 s"
+    },
+
+    {
+        "id":3,
+        "playlist":"bachata",
+        "artista":"Romeo Santos",
+        "nombre" : "Solo Conmigo",
+        "url":"assets/music/Bachata/Romeo Santos - Solo Conmigo.mp3",
+        "duracion":"4:16 s"
+    }
+
+]

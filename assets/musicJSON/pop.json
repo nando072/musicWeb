@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "playlist":"pop",
+        "artista":"Louis Tomlinson",
+        "nombre" : "Written All Over Your Face",
+        "url":"assets/music/Pop/Louis Tomlinson - Written All Over Your Face.mp3",
+        "duracion":"2:41 s"
+    }
+
+]

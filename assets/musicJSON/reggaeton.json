@@ -1,0 +1,10 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"Maluma",
+        "nombre" : "La Temperatura",
+        "url":"assets/music/Reggaeton/Maluma-La-Temperatura.mp3",
+        "duracion":"4:47 s"
+    }
+]
